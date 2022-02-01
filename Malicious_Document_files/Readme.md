@@ -1,1 +1,1 @@
-This directory contains 1000 malicious doc files.
+This directory conatains the malicious word document files.
